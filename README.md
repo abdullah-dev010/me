@@ -130,9 +130,6 @@ React.js, Fetch API, JavaScript
 * Display results dynamically
 * Handle API responses efficiently
 
-🔗 GitHub Repo:
-https://github.com/abdullah-dev010/movie-search-app
-
 ---
 
 # 📚 Currently Learning
