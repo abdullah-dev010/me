@@ -89,7 +89,7 @@ https://github.com/yourusername/movie-search-app
 # 📫 Let's Connect
  
 - GitHub: https:/github.com/abdullah-dev010
-- Email:abdullah.dev010@gamil.com
+- Email:abdullah.dev010@gmail.com
 
 ---
 
