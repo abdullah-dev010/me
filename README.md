@@ -4,7 +4,7 @@
 
 
 [![GitHub](https://img.shields.io/badge/GitHub-yourusername-181717?style=flat-square&logo=github)](https://github.com/)
-![](https://komarev.com/ghpvc/?username=yourusername&color=brightgreen&style=flat-square)
+
 
 </div>
 
