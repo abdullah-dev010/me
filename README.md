@@ -60,29 +60,10 @@ React.js, Fetch API, JavaScript
 🔗 GitHub Repo:  
 https://github.com/yourusername/movie-search-app
 
----
-
-## 🧾 CV Analyzer (AI Based)
-
-Analyzes CV and matches job roles.
-
-**Tech Used:**  
-JavaScript, NLP, API Integration  
-
-🔗 GitHub Repo:  
-https://github.com/yourusername/cv-analyzer
-
----
 
 # 📚 Currently Learning
 
-- React Router  
-- API Integration  
-- State Management  
 - Responsive Web Design  
-- JavaScript ES6+
-
----
 
 # 📊 GitHub Stats
 
@@ -106,10 +87,9 @@ https://github.com/yourusername/cv-analyzer
 ---
 
 # 📫 Let's Connect
-
-- LinkedIn: https://linkedin.com/in/yourprofile  
-- GitHub: https://github.com/yourusername  
-- Email: your@email.com  
+ 
+- GitHub: https:/github.com/abdullah-dev010
+- Email:abdullah.dev010@gamil.com
 
 ---
 
