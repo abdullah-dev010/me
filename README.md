@@ -141,17 +141,6 @@ React.js, Fetch API, JavaScript
 
 ---
 
-# 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdullah-dev010\&show_icons=true\&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdullah-dev010\&layout=compact\&theme=radical)
-
-</div>
-
----
 
 # 🎯 Goals
 
