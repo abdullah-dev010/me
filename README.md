@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-yourprofile-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/)
+
 [![GitHub](https://img.shields.io/badge/GitHub-yourusername-181717?style=flat-square&logo=github)](https://github.com/)
 ![](https://komarev.com/ghpvc/?username=yourusername&color=brightgreen&style=flat-square)
 
