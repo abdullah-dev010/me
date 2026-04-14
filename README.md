@@ -96,11 +96,6 @@ Python, TensorFlow, Decision Tree, LSTM, VADER, OpenAI API
 * Generate **data-driven investment suggestions**
 * Integrate multiple AI components into one intelligent system
 
-🔗 GitHub Repo:
-https://github.com/abdullah-dev010/ai-crypto-advisor
-
----
-
 ## 🌦 Weather App (React.js)
 
 A responsive weather application that fetches real-time weather data using APIs.
