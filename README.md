@@ -155,7 +155,7 @@ React.js, Fetch API, JavaScript
 # 📫 Let's Connect
 
 * GitHub: https://github.com/abdullah-dev010
-* Email: [abdullah.dev010@gmail.com](mailto:abdullah.dev010@gmail.com)
+* Email: [abdullah.dev0101@gmail.com]
 
 ---
 
