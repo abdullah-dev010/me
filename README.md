@@ -5,17 +5,16 @@
 [![GitHub](https://img.shields.io/badge/GitHub-abdullah--dev010-181717?style=flat-square\&logo=github)](https://github.com/abdullah-dev010)
 
 </div>
-
 ---
 
 # 👨‍💻 About Me
 
-I'm a **Computer Science Student** passionate about **Frontend Development** and exploring **Artificial Intelligence & Machine Learning**.
+I'm a Computer Science Student passionate about Frontend Development and exploring Artificial Intelligence & Machine Learning
 
 * 🎓 BS Computer Science Student (2022–2026)
-* 💻 Skilled in **Frontend Development (React.js)**
-* 🤖 Interested in **AI & Machine Learning Projects**
-* 🚀 Building projects using **JavaScript, APIs, and Python**
+* 💻 Skilled in Frontend Development (React.js)
+* 🤖 Interested in AI & Machine Learning Projects
+* 🚀 Building projects using JavaScript, APIs, and Python
 * 📍 Based in Pakistan
 
 ---
@@ -84,10 +83,10 @@ Tools:
 
 An AI-based crypto investment advisor that predicts market trends and suggests crypto assets based on user risk levels.
 
-**Tech Used:**
+Tech Used:
 Python, TensorFlow, Decision Tree, LSTM, VADER, OpenAI API
 
-**Features:**
+Features:
 
 * Predict crypto prices using **LSTM neural networks**
 * Perform **sentiment analysis** using VADER
@@ -99,10 +98,10 @@ Python, TensorFlow, Decision Tree, LSTM, VADER, OpenAI API
 
 A responsive weather application that fetches real-time weather data using APIs.
 
-**Tech Used:**
+Tech Used:
 React.js, Fetch API, JavaScript, HTML5, CSS3
 
-**Features:**
+Features:
 
 * Fetch real-time weather data using REST API
 * Display weather information dynamically
@@ -119,10 +118,10 @@ https://github.com/abdullah-dev010/weather-app
 
 A movie search application that fetches data from an external API.
 
-**Tech Used:**
+Tech Used:
 React.js, Fetch API, JavaScript
 
-**Features:**
+Features:
 
 * Search movies by name
 * Fetch data using API
@@ -138,6 +137,25 @@ React.js, Fetch API, JavaScript
 * Machine Learning Model Optimization
 * Full Stack Web Development
 
+ # 🛒 E-Commerce Frontend Dashboard
+
+A fully responsive e-commerce frontend dashboard built using modern web technologies, focused on performance and user experience.
+Tech Used:
+React.js, Tailwind CSS, JavaScript (ES6+), REST APIs, Git
+
+Features:
+
+* Display products dynamically using REST API integration
+* Implement product search and category-based filtering
+* Shopping cart functionality with add/remove items (no page reload)
+* State management using React Hooks (useState, useEffect)
+* Fully responsive mobile-first UI design
+* Fast and efficient data fetching using async/await
+* Optimized performance with smooth user experience
+
+🔗 GitHub Repo:  
+https://github.com/abdullah-dev010/ecommerce-dashboard
+
 ---
 
 
@@ -146,8 +164,8 @@ React.js, Fetch API, JavaScript
 * Build professional frontend projects
 * Improve AI & Machine Learning skills
 * Contribute to open-source projects
-* Get a **Frontend Developer Internship**
-* Become a **Full Stack Developer**
+* Get a Frontend Developer Internship
+* Become a Full Stack Developer
 
 ---
 
