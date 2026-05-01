@@ -16,7 +16,6 @@ I'm a **Computer Science Student** passionate about **Frontend Development** and
 * 💻 Skilled in **Frontend Development (React.js)**
 * 🤖 Interested in **AI & Machine Learning Projects**
 * 🚀 Building projects using **JavaScript, APIs, and Python**
-* 🎯 Looking for **Frontend Developer Internship Opportunities**
 * 📍 Based in Pakistan
 
 ---
