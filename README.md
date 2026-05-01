@@ -130,13 +130,6 @@ Features:
 
 ---
 
-# 📚 Currently Learning
-
-* Advanced React.js
-* Responsive Web Design
-* Machine Learning Model Optimization
-* Full Stack Web Development
-
  # 🛒 E-Commerce Frontend Dashboard
 
 A fully responsive e-commerce frontend dashboard built using modern web technologies, focused on performance and user experience.
@@ -157,6 +150,12 @@ Features:
 https://github.com/abdullah-dev010/ecommerce-dashboard
 
 ---
+# 📚 Currently Learning
+
+* Advanced React.js
+* Responsive Web Design
+* Machine Learning Model Optimization
+* Full Stack Web Development
 
 
 # 🎯 Goals
