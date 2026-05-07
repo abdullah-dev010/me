@@ -15,7 +15,7 @@ I'm a Computer Science Student passionate about Frontend Development and explori
 * 💻 Skilled in Frontend Development (React.js)
 * 🤖 Interested in AI & Machine Learning Projects
 * 🚀 Building projects using JavaScript, APIs, and Python
-* 📍 Based in Pakistan
+* 📍 Based in Pakistan.
 
 ---
 
